@@ -5,7 +5,7 @@
 ## 執行前必要準備
 
 1. 到「環境部環境資料開放平臺」申請 API 金鑰：<https://data.moenv.gov.tw/>
-2. 下載過去空污測站記錄的空氣污染歷史數值 CSV 檔。
+2. 下載過去空污測站記錄的空氣污染歷史數值 CSV 檔(最近12個月的csv檔)。<https://data.moenv.gov.tw/dataset/detail/AQX_P_488>
 3. 將所有歷史 CSV 檔放在同一個資料夾中。
 4. 打開 `final pius2.py`，替換下列設定：
 
